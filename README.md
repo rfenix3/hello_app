@@ -1,5 +1,11 @@
-# README
+# Ruby on Rails Tutorial
+## "hello, world!"
 
+This is the first aplication for the 
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Harl]. Hello, world!
+
+==========================
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -22,3 +28,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+==========================
+
